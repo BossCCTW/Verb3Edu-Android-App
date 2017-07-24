@@ -21,8 +21,8 @@ finaly show 3 Sentence on Under page
 
 #### Test and Games
 In the Application there are 3 games test by play in 2 minutes 
-user select answer and next qustion when time will show all score point.
+user select answer and next qustion when time will show all score point
 
-<a href="https://gfycat.com/AcademicWeepyCooter">
-<img src="https://gfycat.com/AcademicWeepyCooter" title="made at imgflip.com"/>
+<a href="https://thumbs.gfycat.com/AcademicWeepyCooter-size_restricted.gif">
+<img src="https://thumbs.gfycat.com/AcademicWeepyCooter-size_restricted.gif"/>
 
