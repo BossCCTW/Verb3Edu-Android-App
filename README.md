@@ -25,6 +25,6 @@ user select answer and next qustion when time will show all score point.
 
 https://thumbs.gfycat.com/DifficultConstantKangaroo-size_restricted.gif
 
-<a href="https://thumbs.gfycat.com/DifficultConstantKangaroo-size_restricted.gif">
+<a style="display:block;width:290px" href="https://thumbs.gfycat.com/DifficultConstantKangaroo-size_restricted.gif">
 <img src="https://thumbs.gfycat.com/DifficultConstantKangaroo-size_restricted.gif"/>
 
